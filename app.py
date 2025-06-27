@@ -30,4 +30,4 @@ if uploaded_file:
     href = f'<a href="data:file/txt;base64,{b64}" download="parsed_sequences.txt">📥 Download Parsed Sequences as TXT</a>'
     st.markdown(href, unsafe_allow_html=True)
 
-st.markdown("""<hr><p style='text-align: center; color: #888888;'>Created by Vedant Bhise | FYBI | MGM's College of CS & IT, Nanded</p>""", unsafe_allow_html=True)
+st.markdown("""<hr><p style='text-align: center; color: #888888;'>Created by Anjali Jadhav | FYBI | MGM's College of CS & IT, Nanded</p>""", unsafe_allow_html=True)
